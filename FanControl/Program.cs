@@ -1,0 +1,9 @@
+﻿namespace FanControl
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
+}
